@@ -11,8 +11,7 @@
 4. 실험 설정 및 방법 (Experiment)
 5. 실험 결과 (Results)
 6. 결론 및 향후 연구 (Conclusion)
-7. 이미지 예시 (Samples
-8. 참고 및 지원 (Reference)
+7. 참고 (Reference)
 
 --- 
   
