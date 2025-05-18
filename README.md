@@ -111,11 +111,10 @@
 ---
 
 
-## 참고 및 지원 (Reference)
+## 참고 (Reference)
 - 본 연구는 **2024년 과학기술정보통신부 및 정보통신기획평가원의 SW중심대학사업**의 지원을 받아 수행되었습니다. (2024-0-00047)
-- Stable Diffusion 관련 논문:  
-  [Diffusion Models in Vision: A Survey](https://doi.org/10.1109/TPAMI.2023.3268241)
-
+- 
+  [2024 학술회 논문 - Stable Diffusion 기반 이미지 생성에 따른 학습 데이터 효율화에 대한 연구.pdf](https://github.com/user-attachments/files/20273265/2024.10.30.2024.pdf)
 
 
 
